@@ -9,40 +9,7 @@
 
 }
 
-.header {
-  grid-area: h;
-  background-color: #d5eec0;
-  border: 1px solid silver;
-}
 
-.header img {
-  width: 50px;
-  margin-left: 1em;
-  margin-top: 1em;
-  max-width: 100%;
-}
 
-.nav {
-  grid-area: n;
-  background-color: #99ceff;
-  margin-top: 1em;
-  border: 1px solid silver;
-}
 
-.nav a {
-  margin-left: 1em;
-  margin-top: 1em;
-}
 
-.content {
-  grid-area: c;
-  background-color: #fff8dd;
-  text-align: center;
-  margin-top: 1em;
-  margin-left: 1em;
-  border: 1px solid silver;
-}
-
-.content img {
-  max-width: 100%;
-}

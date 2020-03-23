@@ -1,0 +1,11 @@
+.nav {
+    grid-area: n;
+    background-color: #99ceff;
+    margin-top: 1em;
+    border: 1px solid silver;
+}
+
+.nav a {
+    margin-left: 1em;
+    margin-top: 1em;
+}
