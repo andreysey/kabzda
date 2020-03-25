@@ -9,3 +9,11 @@
     margin-left: 1em;
     margin-top: 1em;
 }
+
+.item.active {
+    color: blueviolet;
+}
+
+.item {
+    color: azure;
+}
