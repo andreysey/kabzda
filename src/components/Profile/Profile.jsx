@@ -4,7 +4,7 @@ import MyPosts from "./MyPosts/MyPosts";
 
 const Profile = () => {
     return (
-        <div className={s.content}>
+        <div className={s.profile}>
             <div>
                 <img src='https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png'
                      alt='wide content'/>

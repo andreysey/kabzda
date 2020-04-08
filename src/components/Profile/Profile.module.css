@@ -1,12 +1,4 @@
-.content {
-    grid-area: c;
-    background-color: #fff8dd;
-    text-align: center;
-    margin-top: 1em;
-    margin-left: 1em;
-    border: 1px solid silver;
-}
 
-.content img {
+.profile img {
     max-width: 100%;
 }

@@ -8,12 +8,13 @@
 .nav a {
     margin-left: 1em;
     margin-top: 1em;
+    text-decoration: none;
 }
 
-.item.active {
-    color: blueviolet;
+.item a.activeLink {
+    color: #e225a1;
 }
 
-.item {
+.item a {
     color: azure;
 }
