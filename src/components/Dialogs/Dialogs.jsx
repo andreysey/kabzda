@@ -34,7 +34,7 @@ const Dialogs = () => {
     let messagesData = [
         {id: 1, message: 'Hi!'},
         {id: 2, message: 'Yo!'},
-        {id: 3, message: 'Hellou!'},
+        {id: 3, message: 'Hello!'},
         {id: 4, message: 'Yes'},
         {id: 5, message: 'No'}
     ];
