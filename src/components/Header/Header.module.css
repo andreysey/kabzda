@@ -10,3 +10,11 @@
     margin-top: 1%;
     max-width: 100%;
 }
+
+.loginBlock {
+    float: right;
+}
+
+.loginBlock a {
+    color: black;
+}
